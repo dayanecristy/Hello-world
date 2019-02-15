@@ -1,2 +1,3 @@
 # Hello-world
-Project 1
+I am a begginer here and I am ready for the new adventure!
+
